@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KhouryGeorgio](https://github.com/KhouryGeorgio)
+- 👨‍💻 All of my projects are available [here](https://github.com/KhouryGeorgio?tab=repositories).
 
 - 📫 How to reach me **Georgio.C.Khoury@outlook.com**
 
