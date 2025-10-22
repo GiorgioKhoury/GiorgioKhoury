@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khourygeorgio&label=Profile%20views&color=0e75b6&style=flat" alt="khourygeorgio" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/KhouryGeorgio?tab=repositories).
 
