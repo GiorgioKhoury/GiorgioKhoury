@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/KhouryGeorgio?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/GiorgioKhoury?tab=repositories)
 
 - 📫 How to reach me **Georgio.C.Khoury@outlook.com**
 
